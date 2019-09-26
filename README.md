@@ -1,2 +1,2 @@
 # irisclassification
-Iris classification ML model
+implementing the Iris classification ML model, using the SCIkit python dataset
